@@ -28,7 +28,7 @@ Be kind, respectful, and constructive. We're all here to build something useful 
 ### 1. Fork & clone
 
 ```bash
-git clone https://github.com/<your-username>/aws-rest-api.git
+git clone https://github.com/adityayaduvanshi/aws-rest-api.git
 cd aws-rest-api
 ```
 
